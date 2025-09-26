@@ -2,7 +2,7 @@
   "name": "px-to-tailwind-converter",
   "displayName": "Px to Tailwind Converter",
   "description": "Automatically converts pixel values to Tailwind CSS utility classes as you type",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "Azzam666",
   "author": {
     "name": "Mohamed Azzam",
