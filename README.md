@@ -1,8 +1,9 @@
 # Px to Tailwind Converter
 
 [![Version](https://img.shields.io/visual-studio-marketplace/v/Azzam666.px-to-tailwind-converter)](https://marketplace.visualstudio.com/items?itemName=Azzam666.px-to-tailwind-converter)
+[![Installs](https://img.shields.io/visual-studio-marketplace/i/Azzam666.px-to-tailwind-converter)](https://marketplace.visualstudio.com/items?itemName=Azzam666.px-to-tailwind-converter)
 [![Downloads](https://img.shields.io/visual-studio-marketplace/d/Azzam666.px-to-tailwind-converter)](https://marketplace.visualstudio.com/items?itemName=Azzam666.px-to-tailwind-converter)
-[![Rating](https://img.shields.io/visual-studio-marketplace/r/Azzam666.px-to-tailwind-converter)](https://marketplace.visualstudio.com/items?itemName=Azzam666.px-to-tailwind-converter)
+[![Rating](https://img.shields.io/visual-studio-marketplace/stars/Azzam666.px-to-tailwind-converter)](https://marketplace.visualstudio.com/items?itemName=Azzam666.px-to-tailwind-converter)
 
 A powerful VS Code extension that automatically converts pixel values to Tailwind CSS utility classes as you type, making Tailwind development faster and more intuitive.
 
