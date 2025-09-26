@@ -133,40 +133,6 @@ Access these commands through the Command Palette (`Ctrl/Cmd + Shift + P`):
 - **Px to Tailwind: Reset Configuration** - Reset to defaults
 - **Px to Tailwind: Show Logs** - View extension logs for debugging
 
-## 💡 Tips & Best Practices
-
-### For New Tailwind Users
-- Start with familiar pixel values and learn Tailwind's scale naturally
-- Use hover tooltips to understand the relationship between pixels and scale values
-- Pay attention to visual feedback to see standard vs. custom conversions
-
-### For Experienced Developers
-- Leverage custom spacing scales for design system consistency
-- Use the extension for rapid prototyping with pixel values
-- Configure file types to match your project structure
-
-### For Teams
-- Share Tailwind config files to ensure consistent conversions across team members
-- Use the extension during code reviews to identify inconsistent spacing
-- Standardize on common pixel values that map to Tailwind's scale
-
-## 🔧 Troubleshooting
-
-### Extension Not Working?
-1. Check that the file type is supported in settings
-2. Ensure the extension is enabled (`pxToTailwind.enabled: true`)
-3. Verify you're typing valid pixel classes (e.g., `p-16px`, not `padding-16px`)
-
-### Performance Issues?
-1. The extension includes intelligent caching and debouncing
-2. Large files are processed efficiently with optimized algorithms
-3. Check the output panel for performance metrics if needed
-
-### Custom Config Not Loading?
-1. Ensure your `tailwind.config.js` is in the workspace root
-2. Check the file syntax is valid JavaScript
-3. Restart VS Code after making config changes
-
 ## 🤝 Contributing
 
 We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
